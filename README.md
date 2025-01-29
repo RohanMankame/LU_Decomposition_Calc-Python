@@ -28,4 +28,3 @@ When you run the program, it will prompt you to enter the following information:
 
 The program will then calculate the solutions and print the values of x1, x2,..., xn.
 
-## Example
